@@ -1,4 +1,4 @@
-Built a multi-class plant disease classifier using transfer learning (EfficientNetB0/ResNet50V2) on the PlantVillage dataset — 38 disease classes across 14 crop species, 54K+ leaf images — achieving 94.7% validation accuracy.
+Built a multi-class plant disease classifier using transfer learning (EfficientNetB0/ResNet50V2) on the PlantVillage dataset 38 disease classes across 14 crop species, 54K+ leaf images achieving 94.7% validation accuracy.
 
 Applied data augmentation (random flip, rotation, zoom, contrast) to improve model generalization on real-world leaf image variations, and evaluated performance with per-class precision/recall and confusion matrix analysis.
 
