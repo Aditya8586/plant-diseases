@@ -3,4 +3,4 @@ Built a multi-class plant disease classifier using transfer learning (EfficientN
 Applied data augmentation (random flip, rotation, zoom, contrast) to improve model generalization on real-world leaf image variations, and evaluated performance with per-class precision/recall and confusion matrix analysis.
 
 
-Implemented explainable AI (XAI) using SHAP and LIME to visualize which regions of a leaf image drove each prediction — making the model's decisions interpretable rather than a black box, a key requirement for real-world agricultural deployment.
+Implemented explainable AI (XAI) using SHAP and LIME to visualize which regions of a leaf image drove each prediction making the model's decisions interpretable rather than a black box, a key requirement for real-world agricultural deployment.
